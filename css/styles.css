@@ -1,13 +1,5 @@
-.buy-now-button{
-    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
-border: none;
-border-radius: 10px;
-width: 170px;
-height: 60px;
-font-weight: 700;
-color: white;
-}
-.buy-now-button img{
-    width: 24px;
-    height: 24px;
+.banner img{
+width: 550px;
+height: 560px;
+
 }
